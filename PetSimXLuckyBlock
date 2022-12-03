@@ -1,0 +1,5 @@
+getgenv().key = "projectWBIsAwesomemrcrapcrappypattt"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/Main.lua"))()
+
+_G.License = "64fa3ac1d32940cd2abd"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
